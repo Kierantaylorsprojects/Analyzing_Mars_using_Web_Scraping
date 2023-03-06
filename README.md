@@ -16,18 +16,18 @@ Part 2:
 
 - HTML table was extracted into a Pandas DataFrame. 
 
-1. The data was then analyzed to answer the following questions: 
+The data was then analyzed to answer the following questions: 
 
-2. How many months exist on Mars? 
+1. How many months exist on Mars? 
 
-3. How many Martian days' worth of data are there? 
+2. How many Martian days' worth of data are there? 
 
-4. The data was analyzed to answer the following questions, and a data visualization was created to support each answer: 
+3. The data was analyzed to answer the following questions, and a data visualization was created to support each answer: 
 
-5. Which month, on average, has the lowest temperature? The highest? 
+4. Which month, on average, has the lowest temperature? The highest? 
 
-6. Which month, on average, has the lowest atmospheric pressure? The highest? 
+5. Which month, on average, has the lowest atmospheric pressure? The highest? 
 
-7. How many terrestrial days exist in a Martian year? 
+6. How many terrestrial days exist in a Martian year? 
 
 The DataFrame was  then exported into a CSV file.
