@@ -1,6 +1,6 @@
 # Analyzing_Mars_using_Web_Scraping
 
-Part 1:  
+## Part 1:  
 
 - Scraped Titles and Previewed Text from Mars News. 
 
@@ -10,13 +10,13 @@ Part 1:
 
 - The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries. 
 
-Part 2: 
+## Part 2: 
 
 - Scraped and Analyzed Mars Weather Data.  
 
 - HTML table was extracted into a Pandas DataFrame. 
 
-The data was then analyzed to answer the following questions: 
+## The data was then analyzed to answer the following questions: 
 
 1. How many months exist on Mars? 
 
